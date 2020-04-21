@@ -163,10 +163,35 @@ Transformación Pública del Tecnológico de Monterrey
 profesores-investigadores en la Escuela de Gobierno y Transformación
 Pública del Tecnológico de Monterrey.
 
-**Código**
-<div class='tableauPlaceholder' id='viz1586919613795' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;me&#47;mexicovid19_modelacin&#47;MXCOVIDANALYSIS&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='mexicovid19_modelacin&#47;MXCOVIDANALYSIS' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;me&#47;mexicovid19_modelacin&#47;MXCOVIDANALYSIS&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1586919613795');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1516px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+## **Código**
 
-
+\<div class=\'tableauPlaceholder\' id=\'viz1586919613795\'
+style=\'position: relative\'\>\<noscript\>\<a href=\'\#\'\>\<img alt=\'
+\'
+src=\'https:&\#47;&\#47;public.tableau.com&\#47;static&\#47;images&\#47;me&\#47;mexicovid19\_modelacin&\#47;MXCOVIDANALYSIS&\#47;1\_rss.png\'
+style=\'border: none\' /\>\</a\>\</noscript\>\<object
+class=\'tableauViz\' style=\'display:none;\'\>\<param name=\'host\_url\'
+value=\'https%3A%2F%2Fpublic.tableau.com%2F\' /\> \<param
+name=\'embed\_code\_version\' value=\'3\' /\> \<param
+name=\'site\_root\' value=\'\' /\>\<param name=\'name\'
+value=\'mexicovid19\_modelacin&\#47;MXCOVIDANALYSIS\' /\>\<param
+name=\'tabs\' value=\'no\' /\>\<param name=\'toolbar\' value=\'yes\'
+/\>\<param name=\'static\_image\'
+value=\'https:&\#47;&\#47;public.tableau.com&\#47;static&\#47;images&\#47;me&\#47;mexicovid19\_modelacin&\#47;MXCOVIDANALYSIS&\#47;1.png\'
+/\> \<param name=\'animate\_transition\' value=\'yes\' /\>\<param
+name=\'display\_static\_image\' value=\'yes\' /\>\<param
+name=\'display\_spinner\' value=\'yes\' /\>\<param
+name=\'display\_overlay\' value=\'yes\' /\>\<param
+name=\'display\_count\' value=\'yes\' /\>\<param name=\'filter\'
+value=\'publish=yes\' /\>\</object\>\</div\> \<script
+type=\'text/javascript\'\> var divElement =
+document.getElementById(\'viz1586919613795\'); var vizElement =
+divElement.getElementsByTagName(\'object\')\[0\];
+vizElement.style.width=\'1516px\';vizElement.style.height=\'991px\'; var
+scriptElement = document.createElement(\'script\'); scriptElement.src =
+\'https://public.tableau.com/javascripts/api/viz\_v1.js\';
+vizElement.parentNode.insertBefore(scriptElement, vizElement);
+\</script\>
 
 [^1]: [[https://www.animalpolitico.com/2020/04/hacienda-caida-pib-economia-mexico-2020/]{.underline}](https://www.animalpolitico.com/2020/04/hacienda-caida-pib-economia-mexico-2020/)
 
