@@ -75,8 +75,7 @@ presentan mayor déficit son Baja California Sur, Colima y Zacatecas con
 75, 30 y 33 camas respectivamente.
 
 **Gráfica 1.**
-
-![](/Articles_images/media_grissel_1_grissel_1/image1.png)
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image1.png?raw=true)
 
 La gráfica anterior, muestra información relevante a nivel local, ya que
 tan solo entre la CDMX, el Estado de México y Puebla se concentra el
@@ -106,7 +105,7 @@ Colima) son: B.C.S, Nayarit, Tlaxcala, Querétaro y Aguascalientes.
 
 **Gráfica 2**
 
-![](.//media_grissel_1/image2.png)
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image2.png?raw=true)
 
 Si bien esta visualización da una aproximación al número de camas que
 existen es el país, el indicador más adecuado es el número de camas del
@@ -132,7 +131,7 @@ establecidos por la OMS[^4].
 
 **Gráfica 3.**
 
-![](.//media_grissel_1/image3.png)
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image3.png?raw=true)
 
 II. **Disponibilidad de Profesionales de la salud**
 
@@ -176,7 +175,7 @@ Baja California y Campeche.
 
 **Gráfica 4.**
 
-![](.//media_grissel_1/image4.png)
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image4.png?raw=true)
 
 El déficit de personal médico se acentúa aún más en el caso de médicos
 con especialidades críticas. La **Gráfica 5** muestra la distribución
@@ -191,7 +190,7 @@ urgenciólogos (23.6%), internistas (28.0%) y anestesiólogos (45.4%).
 
 **Gráfica 5.**
 
-![](.//media_grissel_1/image5.png)
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image5.png?raw=true)
 
 En cuanto al personal de enfermería, existen **316, 096 enfermeros** en
 contacto con el paciente; 46% son enfermeros generales, 33% auxiliares,
@@ -218,7 +217,7 @@ menor número de enfermeros.
 
 **Gráfica 6.**
 
-![](.//media_grissel_1/image6.png){width="6.1375in" height="4.464583333333334in"}
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image6.png?raw=true)
 
 III. **Valoración de la estrategia en cascada**
 
@@ -244,7 +243,7 @@ de los estados, más o menos cumple con esa dualidad.
 
 **Gráfica 7**
 
-![](.//media_grissel_1/image7.png){width="6.1375in" height="4.464583333333334in"}
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image7.png?raw=true)
 
 En la **Gráfica 8** se presentan dos indicadores o razones: 1) médicos
 generales u otras especialidades no críticas con respecto a médicos
@@ -266,7 +265,7 @@ ante la falta de personal médico especialista.
 
 **Gráfica 8**
 
-![](.//media_grissel_1/image8.png){width="6.1375in" height="4.464583333333334in"}
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image8.png?raw=true)
 
 IV. **Disponibilidad potencial de personal médico**
 
@@ -280,8 +279,7 @@ IV. **Disponibilidad potencial de personal médico**
 >
 > **Gráfica 9**
 >
-> ![](.//media_grissel_1/image9.png){width="6.1375in"
-> height="4.464583333333334in"}
+> ![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_grissel_1/image9.png?raw=true)
 
 **Reflexión final**
 
