@@ -63,7 +63,7 @@ pasamos de la "fase" de rezago o crecimiento lento en un inicio, a una
 significa lo que ya es evidente, es decir, nos falta un relativamente
 largo trecho por recorrer.
 
-![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_alejandro_1/image1.png?raw=true)
+![](https://github.com/SeaWar741/TestBlog/blob/master/Articles_images/media_alejandro_1/image1.emf?raw=true)
 
 \(1\) Secretaría de Salud. Información internacional y nacional sobre
 nuevo coronavirus (COVID-2019):
