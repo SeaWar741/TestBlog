@@ -1,5 +1,10 @@
-**Diagnóstico de recursos físicos y humanos para atender la contingencia
-COVID-19**
+---
+name: Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19
+author: @Grissel Olivera Martínez
+category: Economía
+description: Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19
+---
+# **Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19**
 
 Por Grissel Olivera Martínez[^1]
 
