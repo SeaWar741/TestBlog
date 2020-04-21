@@ -163,7 +163,7 @@ Transformación Pública del Tecnológico de Monterrey
 profesores-investigadores en la Escuela de Gobierno y Transformación
 Pública del Tecnológico de Monterrey.
 
-## **Código**
+**Código**
 
 \<div class=\'tableauPlaceholder\' id=\'viz1586919613795\'
 style=\'position: relative\'\>\<noscript\>\<a href=\'\#\'\>\<img alt=\'
