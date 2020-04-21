@@ -76,7 +76,7 @@ presentan mayor déficit son Baja California Sur, Colima y Zacatecas con
 
 **Gráfica 1.**
 
-![](.//media_grissel_1_grissel_1/image1.png)
+![](/Articles_images/media_grissel_1_grissel_1/image1.png)
 
 La gráfica anterior, muestra información relevante a nivel local, ya que
 tan solo entre la CDMX, el Estado de México y Puebla se concentra el
