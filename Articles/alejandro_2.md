@@ -88,6 +88,7 @@ observa en la columna E.
 |55-59 años	 |4.5%	       |11.7%	|2.582|	0.502|	5.1|	 	50|
 |60-64 años	 |3.6%	       |8.6%	|2.387|	0.502|	4.8|	 	37|
 |65 años +	 |7.6%	       |23.1%	|3.036|	0.502|	6.0|	 	99|
+
 Fuentes: A= pirámide poblacional CONAPO 2020; B y F= distribución de casos por grupo de edad, reporte 4 abril 2020, Secretaría de Salud. Gran total= 1,890 positivos, 78% ambulatorios y 22% hospitalizados; B= corresponde al 22% de hospitalizados, cuyo total es 428. Cifras a nivel nacional.
 
 Este ejercicio es una estimación muy general que simplemente permite
