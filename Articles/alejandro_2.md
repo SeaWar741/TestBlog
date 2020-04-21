@@ -1,10 +1,10 @@
 ---
-name: Acercamiento A Las Probabilidades De Hospitalización Por Grupo De Edad A Nivel Nacional
-description: Acercamiento A Las Probabilidades De Hospitalización Por Grupo De Edad A Nivel Nacional
+name: Acercamiento a las probabilidades de hospitalización por grupo de edad a nivel nacional
+description: Acercamiento a las probabilidades de hospitalización por grupo de edad a nivel nacional
 author: @Alejandro Díaz Domínguez
 category: Estadística
 ---
-# **Acercamiento A Las Probabilidades De Hospitalización Por Grupo De Edad A Nivel Nacional**
+# **Acercamiento a las probabilidades de hospitalización por grupo de edad a nivel nacional**
 
 Por Alejandro Díaz Domínguez\*
 
