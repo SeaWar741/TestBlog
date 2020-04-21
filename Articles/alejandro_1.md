@@ -1,7 +1,7 @@
 ---
 name: Curvas de casos positivos reportados por entidad federativa
 description: Curvas de casos positivos reportados por entidad federativa
-author: @Alejandro Díaz Domínguez
+author: '@Alejandro Díaz Domínguez'
 category: Estadística
 ---
 ## **Curvas de casos positivos reportados por entidad federativa**

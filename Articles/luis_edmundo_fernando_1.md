@@ -1,7 +1,7 @@
 ---
-name: Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19
-description: Diagnóstico de recursos físicos y humanos para atender la contingencia COVID-19
-author: @Luis Serra, @Edmundo Molina y @Fernando Gómez
+name: 'Impacto económico en México por COVID19: un enfoque sectorial y de empleo en condiciones de incertidumbre'
+description: 'Impacto económico en México por COVID19: un enfoque sectorial y de empleo en condiciones de incertidumbre'
+author: '@Luis Serra, @Edmundo Molina y @Fernando Gómez'
 category: Economía
 ---
 # **Impacto económico en México por COVID19: un enfoque sectorial y de empleo en condiciones de incertidumbre**

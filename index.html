@@ -345,8 +345,8 @@
                 dom_post.append(template)
                 dom_post.querySelector("header h1").innerHTML = post.metadata.name;
                 dom_post.querySelector("header h2").innerHTML = post.metadata.description;
-                //dom_post.querySelector("author").innerHTML = post.author
-
+                document.getElementById("user").innerHTML =post.metadata.author;
+                
                 dom_post.querySelector('main').innerHTML = post.content
 
                 dom_post.querySelectorAll('pre code').forEach(block=>{
@@ -396,7 +396,7 @@
         let watermelon = new Blog({
             container: document.querySelector("#container"),
             githubTree: 'https://api.github.com/repos/SeaWar741/TestBlog/contents/Articles',
-        })
+        });
 
     </script>
 
@@ -411,7 +411,7 @@
         <header>
             <h1 name="title">Title</h1>
             <h2 name="description">Description</h2>
-            <span name="author">@Equipo</span>
+            <span name="author"><p id="user">@Equipo</p></span>
         </header>
         <main name="content">
         </main>
