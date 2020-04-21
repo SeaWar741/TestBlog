@@ -153,13 +153,13 @@ regiones del país pueden reactivar su actividad económica de manera
 segura.
 
 \*Luis Serra es doctor en economía por la Universidad de Warwick
-([\@luisserra23](https://twitter.com/luisserra23)), Edmundo Molina es
+([@luisserra23](https://twitter.com/luisserra23)), Edmundo Molina es
 doctor en análisis de sistemas y política pública por la Pardee RAND
 Graduate School
-[(\@EdmundoMolinaMx),](https://twitter.com/EdmundoMolinaMx) y Fernando
+[(@EdmundoMolinaMx),](https://twitter.com/EdmundoMolinaMx) y Fernando
 Gómez es doctor en políticas públicas por la Escuela de Gobierno y
 Transformación Pública del Tecnológico de Monterrey
-([\@fgmzz](https://twitter.com/fgmzz)). Los tres son
+([@fgmzz](https://twitter.com/fgmzz)). Los tres son
 profesores-investigadores en la Escuela de Gobierno y Transformación
 Pública del Tecnológico de Monterrey.
 

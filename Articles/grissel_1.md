@@ -344,7 +344,7 @@ https://datos.gob.mx/busca/dataset/recursos-en-salud-nivel-central/resource/6048
 
 [^1]: ^∗^ Grissel es doctora en Ciencias Económicas por la Universidad
     Autónoma de Nuevo León y es profesora del Departamento de Economía
-    del Tecnológico de Monterrey (\@grissel\_olivera).
+    del Tecnológico de Monterrey ([@Grissel_Olivera](https://twitter.com/grissel_olivera)).
 
 [^2]: Según la Norma Oficial Mexicana NOM-040-SSA2-2004 las camas de
     cuidados intensivos son no censables porque son transitorias y no
